@@ -3,6 +3,9 @@ A Quad Panning Oscillator designed for the Neuztec 4 Festival
 
 ![QUADTEC-101 Render](https://github.com/cctvfm/quadtec101/blob/master/layout2-03-03-01.png)
 
+**This is a modified version of the quadtec101, which makes use of the 16pin eurorack header for +5V power distribution.
+To fit the bigger power header, I removed the original battery circuit, so this version won't work as a standalone module anymore.**
+
 More info here: [cctv.fm](https://www.cctv.fm/product-page/quadtec-101)
 
 Sign up here: [Neuzlab](http://www.neuztec.ca/neuzlab/)
